@@ -1,0 +1,16 @@
+{
+  "name": "api_calls",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "test_sequential_main.js",
+  "scripts": {
+    "test": "node test_sequential_main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "p-map": "^5.5.0"
+  }
+}
